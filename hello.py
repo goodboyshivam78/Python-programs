@@ -1,0 +1,7 @@
+print("Hare Krishna to all *_*")
+print("Aapka naam kya hai ?")
+naam = input()
+print("Aapse mil kar khushi hui,",naam)
+umr = input("Aapki umr kitni hai: ")
+print("wahh! Tab to aap agle saal "+str(int(umr)+1)+" ke ho jayenge :-)")
+print("Radhe Radhe !")
